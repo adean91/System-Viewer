@@ -21,8 +21,6 @@
  */
 package net.ajdean.system.obj;
 
-import java.util.ArrayList;
-
 /**
  *
  * @author Andrew Dean <me@ajdean.net>
